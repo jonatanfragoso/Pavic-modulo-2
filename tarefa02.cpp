@@ -11,8 +11,6 @@ int main()
 	cin >> name;
 	cout << "Escreva sua idade:" << endl;
 	cin >> age;
-
-
 	cout << "Seu nome e : " << name << "e sua idade e : " << age << endl;
 	return 0;
 }
